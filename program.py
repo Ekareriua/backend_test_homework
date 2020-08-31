@@ -1,1 +1,1 @@
-print('Я домашка', 'proverka reset functi', 'dobavlenie dly togo chtobu vernytisy reset')
+print('Я домашка', 'proverka reset functi')
